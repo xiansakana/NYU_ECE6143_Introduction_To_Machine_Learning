@@ -1,0 +1,161 @@
+Address,Walkability_Score,Parks_Nearby,Grocery_Stores_Nearby,Schools_Nearby,Public_Transit_Nearby
+"238 Maple Ave, Hampton, MO",39.5,2,3,1,1
+"967 Elm St, Rockport, MO",20.0,1,1,1,1
+"343 Cedar Blvd, Georgetown, GA",28.499999999999996,1,2,1,3
+"304 Pine St, Highland, IL",55.00000000000001,2,2,2,2
+"181 Lake Dr, Madison, WA",53.5,2,2,2,0
+"303 Oak St, Ashland, CO",70.5,3,2,2,3
+"671 Elm St, Ashland, NY",62.5,2,3,3,1
+"438 Maple Ave, Westfield, TX",45.5,2,1,1,2
+"483 Cedar Blvd, Ashland, MA",20.0,3,0,1,3
+"130 Cedar Blvd, Lexington, NJ",48.5,1,2,2,1
+"619 Maple Ave, Rockport, NY",98.0,3,4,4,1
+"171 Broadway, Newton, CA",38.0,3,2,2,0
+"885 Main St, Rockport, IL",23.0,1,2,1,1
+"650 Elm St, Westfield, WA",54.0,3,2,2,1
+"770 Main St, Middletown, NY",66.0,3,3,2,1
+"572 Oak St, Ashland, CO",22.0,1,0,0,3
+"696 Cedar Blvd, Ashland, MO",56.49999999999999,2,3,2,4
+"696 Maple Ave, Highland, IL",87.5,2,4,4,2
+"362 Main St, Hawthorne, NY",56.99999999999999,2,3,3,0
+"295 Lake Dr, Bridgeport, IL",42.0,3,2,1,0
+"374 Oak St, Bridgeport, TX",32.5,1,2,1,3
+"874 Lake Dr, Hampton, TX",26.5,2,3,0,2
+"135 Maple Ave, Newport, MO",47.0,3,2,2,0
+"138 Elm St, Newport, GA",41.0,2,3,1,2
+"858 Elm St, Ashland, FL",34.5,1,2,1,1
+"506 Elm St, Greenville, NJ",6.0,0,0,0,3
+"563 Lake Dr, Bloomington, OR",34.0,1,1,1,4
+"756 Cedar Blvd, Highland, GA",32.0,1,2,2,0
+"585 Cedar Blvd, Silverton, NC",16.0,2,1,0,2
+"491 Lake Dr, Clayton, GA",4.0,2,1,0,0
+"528 Broadway, Newport, IL",39.0,2,1,0,4
+"685 Maple Ave, Riverside, FL",72.0,2,3,3,2
+"211 Oak St, Centerville, NJ",63.0,3,3,1,5
+"425 Lake Dr, Eastwood, MO",55.50000000000001,2,1,2,2
+"527 Cedar Blvd, Silverton, FL",60.5,3,3,2,4
+"550 Pine St, Silverton, NY",52.0,3,3,2,1
+"905 Main St, Riverside, MA",68.0,2,3,3,2
+"223 Pine St, Springfield, NJ",62.0,2,2,3,2
+"364 Elm St, Middletown, NY",42.5,3,2,1,1
+"996 Main St, Eastwood, GA",65.0,3,2,3,1
+"634 Lake Dr, Fulton, CA",39.0,3,2,1,0
+"210 Oak St, Brooklyn, NY",78.0,3,4,2,4
+"287 Broadway, Newport, MA",36.0,3,2,1,2
+"703 Lake Dr, Bloomington, CA",53.0,2,2,2,2
+"992 Main St, Brooklyn, MO",39.0,4,2,1,0
+"612 Lake Dr, Fairview, WA",17.5,1,1,1,1
+"687 Maple Ave, Silverton, NC",65.5,2,2,3,2
+"762 Maple Ave, Newport, OR",35.0,2,1,2,2
+"472 Main St, Georgetown, NJ",64.0,4,3,2,5
+"715 Cedar Blvd, Newton, IL",32.5,2,1,1,2
+"283 Main St, Newton, TX",37.0,0,1,1,4
+"549 Lake Dr, Centerville, IL",48.0,2,1,3,1
+"894 Lake Dr, Bridgeport, MO",32.0,3,2,0,4
+"643 Oak St, Springfield, NC",69.5,4,4,2,1
+"759 Main St, Georgetown, MO",2.0,1,0,0,3
+"696 Broadway, Bridgeport, CO",85.0,2,3,3,4
+"793 Maple Ave, Rockport, CA",37.0,2,1,1,2
+"830 Oak St, Highland, MO",75.5,3,4,3,2
+"415 Pine St, Springfield, TX",43.0,2,2,2,1
+"713 Lake Dr, Fulton, CA",48.0,3,2,2,3
+"490 Maple Ave, Fairview, NY",32.5,3,1,1,1
+"177 Pine St, Yorktown, NY",11.5,0,1,0,3
+"696 Main St, Rockport, FL",7.5,1,1,0,3
+"982 Oak St, Ashland, NJ",62.0,3,3,2,2
+"421 Cedar Blvd, Eastwood, CA",36.5,2,2,1,0
+"829 Main St, Ashland, TX",76.5,3,3,3,3
+"407 Oak St, Greenville, CO",44.0,2,2,1,1
+"570 Elm St, Greenwood, NJ",23.0,0,1,1,2
+"210 Pine St, Rockport, IL",35.0,2,3,1,2
+"124 Lake Dr, Eastwood, OR",35.0,2,1,0,4
+"570 Oak St, Jacksonville, NC",40.0,4,1,2,0
+"992 Lake Dr, Jacksonville, CO",95.5,2,5,3,2
+"865 Lake Dr, Newton, GA",89.5,3,3,3,5
+"447 Elm St, Middletown, NC",15.0,1,1,1,1
+"692 Pine St, Springfield, NC",56.49999999999999,1,1,3,3
+"493 Broadway, Rockport, MA",19.0,3,1,1,0
+"753 Oak St, Bridgeport, MA",48.5,3,2,2,1
+"627 Elm St, Middletown, NY",42.0,1,0,2,2
+"932 Oak St, Lakewood, IL",77.0,4,3,2,4
+"307 Cedar Blvd, Hampton, MO",23.5,1,1,1,3
+"338 Cedar Blvd, Salem, CO",20.5,2,1,0,2
+"428 Cedar Blvd, Silverton, TX",64.0,3,2,3,2
+"821 Main St, Bloomington, WA",28.999999999999996,1,1,1,0
+"472 Maple Ave, Newton, MA",55.50000000000001,3,3,1,3
+"551 Pine St, Lakewood, FL",44.0,4,2,2,0
+"269 Main St, Clayton, GA",31.0,1,1,1,2
+"438 Lake Dr, Yorktown, CO",26.0,1,1,1,2
+"694 Lake Dr, Westfield, NY",48.0,2,3,2,0
+"597 Main St, Greenwood, MO",30.0,1,1,1,1
+"737 Broadway, Greenville, OR",61.0,3,4,2,1
+"130 Broadway, Greenville, NY",48.5,1,1,3,0
+"654 Broadway, Rockport, GA",18.5,2,1,1,1
+"616 Elm St, Franklin, NC",50.0,2,1,2,1
+"760 Pine St, Centerville, CO",62.0,4,2,1,3
+"514 Maple Ave, Lexington, GA",62.0,2,2,3,3
+"582 Broadway, Fairview, NJ",48.0,3,2,2,2
+"291 Lake Dr, Centerville, IL",37.5,1,2,1,2
+"666 Pine St, Clayton, NJ",55.50000000000001,2,3,2,2
+"246 Broadway, Hawthorne, OR",64.0,2,2,3,3
+"812 Main St, Highland, MO",20.0,2,1,1,1
+"560 Lake Dr, Rockport, OR",91.5,3,4,3,3
+"127 Broadway, Madison, MA",51.0,2,3,1,4
+"307 Elm St, Fairview, GA",36.5,2,1,1,4
+"949 Lake Dr, Hampton, WA",34.0,2,3,1,2
+"226 Elm St, Centerville, NJ",51.0,1,3,3,3
+"242 Maple Ave, Rockport, NJ",74.0,3,3,3,3
+"732 Broadway, Madison, TX",51.0,3,2,2,1
+"153 Elm St, Riverside, GA",55.50000000000001,3,1,2,2
+"311 Main St, Greenwood, WA",39.0,3,2,1,2
+"857 Elm St, Newton, GA",40.5,2,1,2,2
+"392 Oak St, Clayton, IL",27.0,1,1,1,1
+"884 Elm St, Rockport, WA",68.0,3,3,3,3
+"224 Oak St, Highland, CO",29.5,0,2,1,0
+"358 Pine St, Greenwood, CA",22.5,2,2,0,1
+"533 Maple Ave, Riverside, MO",21.5,1,2,0,0
+"709 Pine St, Hampton, NY",14.000000000000002,1,1,1,1
+"502 Main St, Newton, GA",25.0,2,1,0,2
+"746 Cedar Blvd, Middletown, CA",22.0,1,1,0,1
+"923 Cedar Blvd, Newton, OR",22.0,1,1,0,1
+"767 Lake Dr, Brooklyn, WA",30.0,2,1,1,2
+"663 Oak St, Fairview, NY",60.5,3,3,2,2
+"632 Broadway, Bridgeport, FL",39.5,2,2,1,4
+"422 Oak St, Riverside, CO",43.0,2,2,1,2
+"258 Maple Ave, Ashland, NY",37.5,2,1,2,1
+"951 Lake Dr, Newton, WA",46.5,3,2,0,4
+"701 Pine St, Clayton, OR",50.5,2,2,3,2
+"530 Cedar Blvd, Highland, IL",30.0,2,2,1,1
+"430 Main St, Lexington, CO",50.0,2,2,1,1
+"996 Elm St, Bridgeport, NY",64.5,3,3,2,2
+"600 Maple Ave, Franklin, IL",46.0,2,3,2,1
+"753 Cedar Blvd, Springfield, WA",79.0,3,3,2,3
+"983 Lake Dr, Hampton, CA",45.0,2,1,1,2
+"868 Maple Ave, Salem, CA",61.5,2,3,2,2
+"403 Oak St, Silverton, CA",55.00000000000001,3,3,0,2
+"305 Main St, Bloomington, CO",37.0,2,2,1,1
+"630 Broadway, Lexington, IL",33.0,3,1,1,1
+"388 Maple Ave, Greenwood, MO",16.5,0,1,1,0
+"685 Cedar Blvd, Middletown, NY",32.5,2,1,1,1
+"880 Pine St, Eastwood, OR",69.5,3,3,2,3
+"445 Oak St, Lakewood, GA",20.0,1,2,0,2
+"641 Oak St, Brooklyn, TX",82.0,3,4,3,0
+"785 Elm St, Lakewood, MA",24.0,0,2,0,1
+"354 Oak St, Newton, MA",55.00000000000001,3,2,2,0
+"358 Pine St, Georgetown, TX",47.5,2,2,2,0
+"269 Broadway, Eastwood, FL",73.5,3,3,3,2
+"116 Pine St, Rockport, OR",39.5,1,2,2,0
+"300 Maple Ave, Salem, GA",44.5,1,1,2,3
+"224 Lake Dr, Yorktown, TX",57.49999999999999,3,3,2,4
+"112 Lake Dr, Silverton, CA",42.5,3,2,1,0
+"927 Main St, Springfield, WA",37.5,2,1,1,3
+"594 Elm St, Greenville, IL",35.5,1,2,2,3
+"272 Lake Dr, Springfield, TX",33.0,1,1,2,0
+"934 Cedar Blvd, Springfield, OR",50.5,2,2,2,3
+"382 Cedar Blvd, Bloomington, OR",20.0,2,1,1,1
+"978 Cedar Blvd, Bridgeport, OR",34.0,1,2,1,0
+"262 Maple Ave, Eastwood, WA",51.0,2,3,2,1
+"746 Elm St, Fulton, MA",54.0,3,1,3,3
+"727 Pine St, Greenville, TX",44.0,2,2,1,3
+"264 Pine St, Madison, MO",65.5,3,3,2,1
+"609 Lake Dr, Silverton, MA",50.5,2,2,2,2
