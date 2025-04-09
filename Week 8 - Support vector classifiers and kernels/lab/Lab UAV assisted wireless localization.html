@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-NYU/pages/../_assets/thirdpartylib/bootstrap-4.3.1/css/bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-NYU/pages/../_assets/thirdpartylib/fontawesome-free-5.9.0-web/css/all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-NYU/pages/../_assets/css/styles.min.css">
+   <link rel="stylesheet" href="/shared/HTML-Template-Library/HTML-Templates-NYU/pages/../_assets/css/custom.css">
+   <title>Default Template Page</title>
+</head><body><section>
+<div class="container">
+<div class="grad1 p-4">
+<h1>Lab: UAV assisted wireless localization</h1>
+</div>
+<div class="title border-box p-3 mt-3">
+<p>You've been asked to contribute your machine learning expertise to a crucial and potentially life-saving mission.</p>
+<p>A pair of hikers has gone missing in a national park, and they are believed to be critically injured. Fortunately, they have activated a wireless locator beacon, and it transmits a constant wireless signal from their location. Unfortunately, their beacon was not able to get a satellite fix, so their GPS position is not known.</p>
+<p>To rescue the injured hikers, therefore, their location must be estimated using the signal strength of the wireless signal from the beacon: when a radio receiver is close to the beacon, the signal strength will be high. When a radio receiver is far from the beacon, the signal strength will be lower.&nbsp; (The relationship is noisy, however; the wireless signal also fluctuates over time, even with a constant distance.)</p>
+<p>You are going to fly an unmanned aerial vehicle (UAV) with a radio receiver around the area where they were last seen, and use the received wireless signal strength to fit a machine learning model that will estimate the hikers' position. Then, you'll relay this information to rescuers, who will try to reach that position by land. (Unfortunately, due to dense tree cover, the UAV will not be able to visually confirm their position.)</p>
+<p>There is a complication, though - the UAV has a limited battery life, and therefore, limited flight time. You'll have to get an accurate estimate of the hikers' position in a very short time!</p>
+</div>
+<hr width="40%" class="solid">
+<div class="title border-box p-3 mt-3">
+<h2>To Do</h2>
+<p>This experiment will be executed on AERPAW, an experimental platform for research on UAVs and wireless communications. The lab assignment has multiple parts, with separate deadlines for each part:</p>
+<ol class="large-number">
+<li>In the first part, "Hello, AERPAW - create an account", you will create an account on the AERPAW platform, add a key to your account, and request an experimenter role.&nbsp;<strong>This part of the experiment is due on April 1.&nbsp;<br><br></strong>Once you have an experimenter role, you should also submit a request to join the project.&nbsp;Note that for the part where you join a project, you will use the project name&nbsp;<strong>NYU-ECE6143-SP25<br><br></strong>There is nothing to submit for grading for this part of the experiment, but it involves multiple "human-in-the-loop" approval stages, so you are required to complete it early.</li>
+<li>In the next part, you will use a Colab notebook to learn about the Gaussian Process Regression model, and the process of training it using Bayesian Optimization.<br><br>There is nothing to submit for this part of the experiment, but you need this part in order to complete the next step. In particular, the code you will submit in PrairieLearn in Step 4 will be copy-pasted from this Colab notebook. <br><br>(You do not need to write any new code in this lab assignment. The objective of this assignment is to practice understanding and interpreting the results of a machine learning experiment, and making decisions based on these results, not writing code.)<br><br><strong>This part of the experiment is due on April 3.</strong></li>
+<li>Next, in "Hello, AERPAW - start an experiment", you will set up an experiment on AERPAW, and you will validate the premise of the experiment - that signal strength increases when the receiver is close to the transmitter.&nbsp;<br><br>There is nothing to submit for this part of the experiment, but you need this part in order to complete the final step. Also, in case there is any platform/configuration problem in your experiment, we want to know about it so that we can fix it well before the lab due date.<br><br><strong>This part of the experiment is due on April 6.</strong><strong></strong></li>
+<li>Then, you will run some experiments on PrairieLearn to explore different options for this model. Test flights take time - you will need to carefully consider what you have learned from each experiment, then decide what to try next.<br><br><strong>This part of the experiment is due on April 10, via PrairieLearn submission.</strong></li>
+<li>In the last part of the experiment, you will use the techniques from this week's lesson, the sample experiment from Step 3, and your observations from Step 4 to quickly estimate the position of the hikers in a real-time AERPAW experiment. &nbsp;<br><br><strong>This part of the experiment is due on April 10, via PrairieLearn submission.</strong></li>
+</ol>
+</div>
+</div>
+</section></body></html>

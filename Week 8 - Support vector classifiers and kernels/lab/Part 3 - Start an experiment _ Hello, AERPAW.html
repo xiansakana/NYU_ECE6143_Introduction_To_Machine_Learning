@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+    <title>Start an experiment | Hello, AERPAW</title>
+    <meta name="generator" content="Jekyll v3.10.0" />
+    <meta property="og:title" content="Start an experiment" />
+    <meta name="author" content="Fraida Fund" />
+    <meta property="og:locale" content="en_US" />
+    <link
+      rel="canonical"
+      href="https://teaching-on-testbeds.github.io/hello-aerpaw/create-experiment.html"
+    />
+    <meta
+      property="og:url"
+      content="https://teaching-on-testbeds.github.io/hello-aerpaw/create-experiment.html"
+    />
+    <meta property="og:site_name" content="Hello, AERPAW" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Start an experiment" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "author": { "@type": "Person", "name": "Fraida Fund" },
+        "headline": "Start an experiment",
+        "url": "https://teaching-on-testbeds.github.io/hello-aerpaw/create-experiment.html"
+      }
+    </script>
+    <!-- End Jekyll SEO tag -->
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      rel="preload"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap"
+      as="style"
+      type="text/css"
+      crossorigin
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#157878" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <link
+      rel="stylesheet"
+      href="/hello-aerpaw/assets/css/style.css?v=4c6f63941ee1a8ba6c6fd0134ef719b3a67b9b75"
+    />
+  </head>
+  <body>
+    <main id="content" class="main-content" role="main">
+      <h2 id="start-an-experiment">Start an experiment</h2>
+
+      <p>Now, you are ready to run an experiment on AERPAW!</p>
+
+      <p>
+        In this “Hello, AERPAW” experiment, you are going to set up an
+        experiment with two mobile vehicles: one aerial vehicle (UAV) and one
+        ground vehicle (UGV).
+      </p>
+
+      <p>
+        Note: If you are working as a group, one member of the group should
+        complete the steps in “Add members and resources to your experiment” on
+        behalf of the entire group, to create a single AERPAW experiment to be
+        used by all members of the group. Then, each group member should
+        (separately) try to run the experiment from “Access experiment
+        resources” until the end.
+      </p>
+
+      <h4 id="add-members-and-resources-to-your-experiment">
+        Add members and resources to your experiment
+      </h4>
+
+      <p>
+        First, log in to the AERPAW Experiment Portal. Click on “Projects” in
+        the navigation bar, and find the project that you are a member of; click
+        on it to open the project overview. Click on the “Create” button in the
+        “Experiments” section.
+      </p>
+
+      <p>Now, you will have to fill in some details about your experiment:</p>
+
+      <ul>
+        <li>
+          Select “Canonical” as the experiment type. This setting is required.
+        </li>
+        <li>
+          Give your experiment a short title: you may use the template
+          <code class="language-plaintext highlighter-rouge"
+            >hello_username</code
+          >, e.g.
+          <code class="language-plaintext highlighter-rouge">hello_ffund</code>
+          in my case, for the experiment name
+        </li>
+        <li>Enter your university name for “host institution”</li>
+        <li>
+          For “title of your sponsored project”, write “NA”, and specify that
+          there is no grant number
+        </li>
+        <li>
+          For “Name of the lead experimenter”, specify the name of your
+          instructor or research advisor who is supervising your use of AERPAW.
+          And, put their email address in the “email of the lead experimenter”
+          field
+        </li>
+        <li>in the “Keywords: section, you can use: wireless, uav, aerpaw</li>
+        <li>For “ultimate end destination” select “Development only”.</li>
+        <li>You can select “No” for urgency and “No” for sharing data.</li>
+        <li>
+          and in “expected behavior of the vehicles” you can write: “Hello
+          AERPAW”
+        </li>
+      </ul>
+
+      <p>Then, click “Create canonical experiment”.</p>
+
+      <blockquote>
+        <p>
+          <strong>Note</strong>: If you have omitted any field in the form, then
+          an error is raised when you “Create canonical experiment”. However,
+          the experiment is still created and you can return to the project
+          page, find your experiment by name, click on it, and proceed to the
+          next step.
+        </p>
+      </blockquote>
+
+      <p>
+        From the experiment page, you will add members and resources to the
+        experiment:
+      </p>
+
+      <p>
+        <img
+          src="https://github.com/weijiekwang/AERPAW/assets/123581716/fe7d3675-abc3-4895-ad4f-63b43d5e9aec"
+          alt=""
+        />
+      </p>
+
+      <p>Click on the “Update” button next to “Members”.</p>
+
+      <ol>
+        <li>
+          Select your course instructor or research advisor, click on the arrow
+          to the move them to the list of “Chosen Members”.
+        </li>
+        <li>
+          If you have team members or peers you are working with, click on the
+          arrow to move them to the list of “Chosen Members”.
+        </li>
+      </ol>
+
+      <p>
+        Then click “Save”. (Your advisor and team members will only have access
+        to your experiment resources if you added them to the experiment at this
+        stage - before deploying the resources.)
+      </p>
+
+      <p>
+        Back on the experiment page, click on the “Update” button next to
+        “Targeted Resources”. Then, click “Add/Update”.
+      </p>
+
+      <p>On this page, you will add two resources to the experiment:</p>
+
+      <ul>
+        <li>under “Portable Resources”, toggle LPN1</li>
+        <li>and then LPN2</li>
+      </ul>
+
+      <p>Make sure that LPN1 has node number 1, and LPN2 has node number 2.</p>
+
+      <p>
+        Click “Save”. Then, you will modify each of the nodes by clicking
+        “Modify” -
+      </p>
+
+      <p>
+        <img
+          src="https://teaching-on-testbeds.github.io/hello-aerpaw/images/configure-resource.png"
+          alt="Configure resources"
+        />
+      </p>
+
+      <ul>
+        <li>
+          for node number 1 (this will be the UAV, which is assumed to be the
+          first vehicle in the rest of the instructions), change the name to
+          “UAV”, change the “Node Vehicle” property to “vehicle_uav” and click
+          “Save”
+        </li>
+        <li>
+          for node number 2 (this will be the UGV, which is assumed to be the
+          second vehicle in the rest of the instructions), change the name to
+          “UGV”, change the “Node Vehicle” property to “vehicle_ugv” and click
+          “Save”
+        </li>
+      </ul>
+
+      <p>Click “Back to Experiment”, then “Initiate Development”.</p>
+
+      <p>
+        <img
+          src="https://github.com/weijiekwang/AERPAW/assets/123581716/5229775b-ca15-4e9d-8b33-6cb9bb8113df"
+          alt=""
+        />
+      </p>
+
+      <p>
+        You will receive an email with the subject “Request to initiate
+        development session”. You must then wait until you receive another email
+        notification indicating that the development session is active.
+      </p>
+
+      <h2 id="access-experiment-resources">Access experiment resources</h2>
+
+      <p>
+        Once you receive notification that your development session is active,
+        when you return to your experiment page in the Experiment Web Portal,
+        you will see a “Linked files” section with two files - click the
+        “download” link next to each to download these files to your computer.
+      </p>
+
+      <p>
+        <img
+          src="https://teaching-on-testbeds.github.io/hello-aerpaw/images/download-files.png"
+          alt=""
+        />
+      </p>
+
+      <p>
+        At this stage, you are ready to access experiment resources! To access
+        resources on AERPAW, you need to establish a connection to them in three
+        steps:
+      </p>
+
+      <ul>
+        <li>
+          Start a VPN - none of the later steps will work unless your VPN
+          connection to AERPAW is established successfully.
+        </li>
+        <li>
+          Start an SSH session to the AERPAW experiment console, with port
+          forwarding, and connect QGroundControl to this SSH session
+        </li>
+        <li>
+          Start one or more SSH sessions to the AERPAW resources, and run radio
+          and mobility applications in them
+        </li>
+      </ul>
+
+      <h3 id="start-vpn">Start VPN</h3>
+
+      <p>
+        To start the VPN connection, you will need the file with
+        <code class="language-plaintext highlighter-rouge">.ovpn</code>
+        extension that you downloaded from the experiment portal page. Then,
+        your next steps will depend on your OS.
+      </p>
+
+      <h4 id="on-linux---start-vpn">On Linux - start VPN</h4>
+
+      <p>
+        Suppose your
+        <code class="language-plaintext highlighter-rouge">.ovpn</code> file is
+        named
+        <code class="language-plaintext highlighter-rouge"
+          >aerpaw-XM-X0000-common.ovpn</code
+        >. On Linux, you would run
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>sudo openvpn aerpaw-XM-X0000-common.ovpn
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        in a terminal (from the same directory where you have downloaded the
+        file). If it is successful, you should see
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>2024-07-12 13:08:04 TUN/TAP device tap0 opened
+2024-07-12 13:08:04 Initialization Sequence Completed
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        in the output. Leave this running, and in a second terminal window, run
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>sudo dhclient tap0
+</code></pre>
+        </div>
+      </div>
+
+      <p>or</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>sudo dhcpcd -b tap0
+</code></pre>
+        </div>
+      </div>
+
+      <p>(depending on which DHCP client is installed on your system). Use</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>ip addr
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        to make sure that
+        <code class="language-plaintext highlighter-rouge">tap0</code> is
+        assigned an IPv4 address.
+      </p>
+
+      <h4 id="on-mac---start-vpn">On Mac - start VPN</h4>
+
+      <p>
+        For Mac OS, the recommended VPN software is Tunnelblick. With
+        Tunnelblick running, open the Finder. Drag and drop the
+        <code class="language-plaintext highlighter-rouge">.ovpn</code> file
+        onto the Tunnelblick icon in the menu bar. You may be asked if the
+        configuration should be shared or private (either is fine!) and you may
+        have to give administrator authorization to install the configuration.
+      </p>
+
+      <p>
+        Once the VPN configuration is installed in Tunnelblick, when you click
+        on the Tunnelblick icon in the menu bar, you should see a “Connect”
+        option for this configuration. You can click on this “Connect” option to
+        start the VPN connection. Wait several seconds after the connection is
+        established and it turns “green” before you proceed to the next step,
+        since it takes some additional time to assign an address to the VPN
+        interface.
+      </p>
+
+      <blockquote>
+        <p>
+          [!NOTE] <strong>For Mac users</strong>: AERPAW VPNs use something
+          called a
+          <code class="language-plaintext highlighter-rouge">tap</code>
+          interface. On some versions of MacOS you may need to take some
+          additional steps in order to use a
+          <code class="language-plaintext highlighter-rouge">tap</code>
+          interface - refer to the instructions
+          <a href="https://tunnelblick.net/cKextLoadError.html">here</a> for
+          your specific OS version.
+        </p>
+      </blockquote>
+
+      <h4 id="on-windows---start-vpn">On Windows - start VPN</h4>
+
+      <p>
+        When you run OpenVPN, an icon should appear in the system tray. From
+        OpenVPN, use “Import &gt; Import file” to import the
+        <code class="language-plaintext highlighter-rouge">.ovpn</code> file,
+        then click “Connect”.
+      </p>
+
+      <h3 id="start-ssh-port-forwarding--connect-qgroundcontrol">
+        Start SSH Port Forwarding + Connect QGroundControl
+      </h3>
+
+      <p>
+        When the VPN is running, you can connect QGroundControl to your AERPAW
+        experiment! For this, you will need the
+        <code class="language-plaintext highlighter-rouge">Manifest.txt</code>
+        file you downloaded. Open it and find the address of the “OEO Console”.
+        (This will follow the pattern
+        <code class="language-plaintext highlighter-rouge">192.168.X.62</code>
+        where the value of
+        <code class="language-plaintext highlighter-rouge">X</code> is different
+        for each AERPAW experiment - so you need to check the manifest to find
+        out the value in <em>your</em> experiment.)
+      </p>
+
+      <p>
+        Then, assuming you had generated an AERPAW key at
+        <code class="language-plaintext highlighter-rouge"
+          >~/.ssh/id_rsa_aerpaw</code
+        >
+        following the instructions above, open your terminal and run
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>ssh -i ~/.ssh/id_rsa_aerpaw -L 5760:127.0.0.1:5760 root@192.168.X.62
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        where in place of the address with the
+        <code class="language-plaintext highlighter-rouge">X</code>, you use the
+        address you identified earlier in the manifest. You may be prompted for
+        the passphrase for your key, if you set a passphrase when generating the
+        key.
+      </p>
+
+      <p>
+        The first time you log in to a new host, your computer may display a
+        warning similar to the following:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>The authenticity of host can't be established.
+RSA key fingerprint is SHA256:FUNco2udT/ur2rNb2NnZnUc8s2v6xvNdOFhFFxcWGYA.
+Are you sure you want to continue connecting (yes/no)?
+</code></pre>
+        </div>
+      </div>
+
+      <p>and you will have to type the word yes and hit Enter to continue.</p>
+
+      <p>
+        When this is successful, you should see that the terminal prompt
+        indicates that you are logged in to the experiment console, like this:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>root@OEO-CONSOLE:~$ 
+</code></pre>
+        </div>
+      </div>
+
+      <p>Run</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>cd; ./startOEOConsole.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        This will display a table showing all of the vehicles in your
+        experiment, and their current state. You should see two vehicles, with
+        ID 1 and ID 2, like this:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>| ID | armed | mode      | alt    | heartbeat | gps | screens |
+|----|-------|----------|--------|-----------|-----|---------|
+| 1  | 0     | ALT_HOLD | -0.017 | 1987      | 6   | []      |
+| 2  | 0     | MANUAL   | -0.166 | 1868      | 6   | []      |
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        Leave this running - later, you will need to run some additional
+        commands in this window.
+      </p>
+
+      <p>
+        Now you can connect QGroundControl to your experiment. In
+        QGroundControl,
+      </p>
+
+      <ul>
+        <li>
+          Open the QGroundControl application menu (Q in the upper left corner)
+        </li>
+        <li>Click “Application Settings &gt; Comm Links &gt; Add”</li>
+        <li>
+          Fill in the fields as follows:
+          <ul>
+            <li>Name: Remote Link</li>
+            <li>Type: TCP</li>
+            <li>Server Address: 127.0.0.1</li>
+            <li>Port: 5760</li>
+          </ul>
+        </li>
+        <li>Check “Automatically Connect On Start”.</li>
+      </ul>
+
+      <p>
+        Click OK, then click on the link to highlight it (it will turn bright
+        yellow), then click “Connect” on the bottom. Then, click the “Back”
+        button to return to the main application.
+      </p>
+
+      <p>
+        Now, when you open QGroundControl, you should see the two vehicles in
+        your experiment, in their start position (at the Lake Wheeler Road Field
+        Laboratories at North Carolina State University).
+      </p>
+
+      <p>
+        <img
+          src="https://teaching-on-testbeds.github.io/hello-aerpaw/images/qground-connected.png"
+          alt=""
+        />
+      </p>
+
+      <p>
+        We will restrict our experiment to a specific “geofence” area, so let’s
+        mark this area in QGroundControl. Download the two geofence files:
+      </p>
+
+      <ul>
+        <li>
+          <a
+            href="https://drive.google.com/file/d/1P8GxtgAPCSKywPo4pDo0RmiJ2MQmHTJJ/view"
+            >UAV Geofence</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://drive.google.com/file/d/1JiHwizo982Rxg_0im9mnenFP9LhifjW5/view"
+            >UGV Geofence</a
+          >
+        </li>
+      </ul>
+
+      <p>
+        Then, in QGroundControl, make sure that “Vehicle 1” is selected in the
+        dropdown at the top center of the screen.
+      </p>
+
+      <ul>
+        <li>
+          From the icons on the left side, click the “Plan” icon (it looks like
+          two waypoints with a path between them)
+        </li>
+        <li>
+          Click on “Fence” button in the upper right corner in the plan view,
+          then select the “Polygon Fence” button underneath, then the “Load
+          KML/SHP” (in the middle top of the window), and upload the UAV
+          Geofence
+          <code class="language-plaintext highlighter-rouge">.kml</code> file
+          you just downloaded.
+        </li>
+        <li>
+          Then, click on “File” and choose “Upload”. Click “OK” on the right
+          side of the screen to upload the geofence to the vehicle.
+        </li>
+      </ul>
+
+      <p>
+        <img
+          src="https://teaching-on-testbeds.github.io/hello-aerpaw/images/upload-uav-fence.png"
+          alt=""
+        />
+      </p>
+
+      <ul>
+        <li>
+          Click on the “Fly” icon on the left (looks like a paper airplane) to
+          return to the main view.
+        </li>
+      </ul>
+
+      <p>
+        Next, select “Vehicle 2” in the dropdown at the top center of the
+        screen. Repeat these steps, but with the UGV Geofence
+        <code class="language-plaintext highlighter-rouge">.kml</code> file you
+        downloaded (<code class="language-plaintext highlighter-rouge"
+          >AFAR Rover.kml</code
+        >). Click on the “Fly” icon on the left (looks like a paper airplane) to
+        return to the main view.
+      </p>
+
+      <h3 id="start-ssh-sessions--run-radio-and-mobility-applications">
+        Start SSH Sessions + Run radio and mobility applications
+      </h3>
+
+      <p>
+        In this example experiment, you will run a radio transmitter on a ground
+        vehicle, and then manually move it to a desired position. Then, you will
+        run a radio receiver on an aerial vehicle, fly it past the ground
+        vehicle, and observe how the received signal strength increases (as you
+        get closer to the ground vehicle) and decreases (as you get farther from
+        the ground vehicle).
+      </p>
+
+      <h4 id="start-ground-vehicle">Start ground vehicle</h4>
+
+      <p>First, we will start everything running on the ground vehicle.</p>
+
+      <p>
+        Open an SSH session to the ground vehicle, which is node 2 in your
+        experiment. For this, you will need the
+        <code class="language-plaintext highlighter-rouge">Manifest.txt</code>
+        file you downloaded earlier. Open it and find the address of the second
+        “Portable Node”. (This will follow the pattern
+        <code class="language-plaintext highlighter-rouge">192.168.X.2</code>
+        where the value of
+        <code class="language-plaintext highlighter-rouge">X</code> is different
+        for each AERPAW experiment - so you need to check the manifest to find
+        out the value in <em>your</em> experiment.)
+      </p>
+
+      <p>Then run</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>ssh -i ~/.ssh/id_rsa_aerpaw root@192.168.X.2
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        where in place of the address with the
+        <code class="language-plaintext highlighter-rouge">X</code>, you use the
+        address you identified earlier in the manifest. You may be prompted for
+        the passphrase for your key, if you set a passphrase when generating the
+        key.
+      </p>
+
+      <p>The terminal prompt will change to</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>root@E-VM-M2:~$ 
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        indicating that you are logged in to node 2. On node 2, set up the
+        applications that will run during our experiment - a radio transmitter
+        and a vehicle GPS position logger:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>cd /root/Profiles/ProfileScripts/Radio 
+cp Samples/startGNURadio-ChannelSounder-TX.sh startRadio.sh 
+
+cd /root/Profiles/ProfileScripts/Vehicle
+cp Samples/startGPSLogger.sh startVehicle.sh
+
+cd /root
+</code></pre>
+        </div>
+      </div>
+
+      <p>We will also change one parameter of the radio transmitter. Run:</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>sed -i 's/^SPS=.*/SPS=8/' "/root/Profiles/ProfileScripts/Radio/Helpers/startchannelsounderTXGRC.sh"
+</code></pre>
+        </div>
+      </div>
+
+      <p>Then, open the experiment script for editing</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>nano /root/startexperiment.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        and at the bottom of this file, remove the
+        <code class="language-plaintext highlighter-rouge">#</code> comment sign
+        next to
+        <code class="language-plaintext highlighter-rouge"
+          >./Radio/startRadio.sh</code
+        >
+        and
+        <code class="language-plaintext highlighter-rouge"
+          >./Vehicle/startVehicle.sh</code
+        >, so that the end of the file looks like this:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>./Radio/startRadio.sh
+#./Traffic/startTraffic.sh
+./Vehicle/startVehicle.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        Hit Ctrl+O and then hit Enter to save the file. Then use Ctrl+X to exit
+        and return to the terminal. Run
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>./startexperiment.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        Switch to the terminal in which you are connected to the experiment
+        console (with a table showing the state of the two vehicles) - now, for
+        vehicle 2, you should see a “vehicle” and “txGRC” entry in the “screens”
+        column. (The process numbers may be different.)
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>| ID | armed | mode     | alt    | heartbeat | gps | screens                        |
+|----|-------|----------|--------|-----------|-----|--------------------------------|
+| 1  | 0     | ALT_HOLD | -0.017 | 5473      | 6   | []                             |
+| 2  | 0     | MANUAL   | -0.114 | 5355      | 6   | ['501.txGRC', '508.vehicle']   |
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        In QGroundControl, select “Vehicle 2” in the dropdown at the top center
+        of the screen. Click on “Ready to Fly” in the top left. Click “Arm”.
+        Look for a slider, and slide the indicator to the right to “arm” the
+        ground vehicle.
+      </p>
+
+      <p>
+        Then, click on any position inside the square geofence, and choose “Go
+        to location”. Use the slider again to confirm. You will see the UGV move
+        to the specified position.
+      </p>
+
+      <h4 id="start-aerial-vehicle">Start aerial vehicle</h4>
+
+      <p>Now, we will set things up on the aerial vehicle.</p>
+
+      <p>
+        Open an SSH session to the aerial vehicle, which is node 1 in your
+        experiment. For this, you will need the
+        <code class="language-plaintext highlighter-rouge">Manifest.txt</code>
+        file you downloaded earlier. Open it and find the address of the first
+        “Portable Node”. (This will follow the pattern
+        <code class="language-plaintext highlighter-rouge">192.168.X.1</code>
+        where the value of
+        <code class="language-plaintext highlighter-rouge">X</code> is different
+        for each AERPAW experiment - so you need to check the manifest to find
+        out the value in <em>your</em> experiment.)
+      </p>
+
+      <p>Then run</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>ssh -i ~/.ssh/id_rsa_aerpaw root@192.168.X.1
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        where in place of the address with the
+        <code class="language-plaintext highlighter-rouge">X</code>, you use the
+        address you identified earlier in the manifest. You may be prompted for
+        the passphrase for your key, if you set a passphrase when generating the
+        key.
+      </p>
+
+      <p>The terminal prompt will change to</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>root@E-VM-M1:~$ 
+</code></pre>
+        </div>
+      </div>
+
+      <p>indicating that you are logged in to node 1. On node 1, run</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>wget https://raw.githubusercontent.com/teaching-on-testbeds/hello-aerpaw/refs/heads/main/resources/plot_signal_power.py -O  /root/plot_signal_power.py
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        to download a utility script that we will use later in the experiment.
+      </p>
+
+      <p>
+        On node 1, set up the applications that will run during our experiment -
+        a radio receiver and a vehicle GPS position logger:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>cd /root/Profiles/ProfileScripts/Radio 
+cp Samples/startGNURadio-ChannelSounder-RX.sh startRadio.sh 
+
+cd /root/Profiles/ProfileScripts/Vehicle
+cp Samples/startGPSLogger.sh startVehicle.sh
+
+cd /root
+</code></pre>
+        </div>
+      </div>
+
+      <p>We will also change one parameter of the radio receiver. Run:</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>sed -i 's/^SPS=.*/SPS=8/' "/root/Profiles/ProfileScripts/Radio/Helpers/startchannelsounderRXGRC.sh"
+</code></pre>
+        </div>
+      </div>
+
+      <p>Open the experiment script for editing</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>nano /root/startexperiment.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        and at the bottom of this file, remove the
+        <code class="language-plaintext highlighter-rouge">#</code> comment sign
+        next to
+        <code class="language-plaintext highlighter-rouge"
+          >./Radio/startRadio.sh</code
+        >
+        and
+        <code class="language-plaintext highlighter-rouge"
+          >./Vehicle/startVehicle.sh</code
+        >, so that the end of the file looks like this:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>./Radio/startRadio.sh
+#./Traffic/startTraffic.sh
+./Vehicle/startVehicle.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        Hit Ctrl+O and then hit Enter to save the file. Then use Ctrl+X to exit
+        and return to the terminal. Run
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>./startexperiment.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>and after a few moments, run</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>python3 /root/plot_signal_power.py
+</code></pre>
+        </div>
+      </div>
+
+      <p>This will monitor the received radio signal power on the UAV.</p>
+
+      <p>
+        Switch to the terminal in which you are connected to the experiment
+        console (with a table showing the state of the two vehicles) - for
+        vehicle 1, you should see a “quality”, “rxGRC”, “vehicle”, and “power”
+        entry in the “screens” column.
+      </p>
+
+      <p>
+        In QGroundControl, select “Vehicle 1” in the dropdown at the top center
+        of the screen. Click on “Ready to Fly” in the top left. Click “Arm”.
+        Slide the indicator to the right to “arm” the aerial vehicle.
+      </p>
+
+      <p>
+        On the left side of the screen, click “Takeoff” (icon looks like an
+        arrow pointing up). Then, on the right side of the screen, use the
+        slider to set the altitude to approximately 30m (or about 100 feet). Use
+        the slider to confirm, and the UAV will life off the ground and hold the
+        desired altitude. Watch the indicator at the bottom of the screen for
+        confirmation.
+      </p>
+
+      <p>
+        In the experiment console table, you should also see the updated
+        altitude of the UAV:
+      </p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre
+            class="highlight"
+          ><code>| ID | armed | mode   | alt     | heartbeat | gps | screens                                                             |
+|----|-------|--------|---------|-----------|-----|---------------------------------------------------------------------|
+| 1  | 1     | GUIDED | 30.386  | 1890      | 6   | ['922.vehicle', '909.quality', '912.snr', '899.rxGRC', '902.power'] |
+| 2  | 1     | GUIDED | -0.071  | 1805      | 6   | ['1028.txGRC']                                                      |
+</code></pre>
+        </div>
+      </div>
+
+      <p>
+        Once the UAV is at its desired altitude, click on a position that is
+        inside its geofence, that will take it over and beyond the ground
+        vehicle. Choose “Go to location”. Use the slider again to confirm.
+      </p>
+
+      <p>
+        <img
+          src="https://teaching-on-testbeds.github.io/hello-aerpaw/images/fly-uav.png"
+          alt="Fly UAV past the UGV."
+        />
+      </p>
+
+      <p>
+        As the UAV flies to the specified position, watch the radio power
+        reported in the visualization. Confirm that the received signal strength
+        increases as the UAV moves above the UGV, then decreases again when the
+        distance between UAV and UGV increases.
+      </p>
+
+      <p>You can use Ctrl+C to stop the visualization.</p>
+
+      <h2 id="reset-experiment">Reset experiment</h2>
+
+      <p>To return the experiment to its initial configuration. run</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>./stopexperiment.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>inside the SSH session on each node (node 1 and node 2). Then, run</p>
+
+      <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+          <pre class="highlight"><code>./reset.sh
+</code></pre>
+        </div>
+      </div>
+
+      <p>inside the SSH session on one node (either node1 OR node2).</p>
+
+      <p>In the experiment console session, use Ctrl+D to stop the console.</p>
+    </main>
+  </body>
+</html>
