@@ -1,0 +1,121 @@
+Address,Walkability_Score,Parks_Nearby,Grocery_Stores_Nearby,Schools_Nearby,Public_Transit_Nearby
+"939 Maple Ave, Bloomington, TX",0,2,2,1,2
+"986 Cedar Blvd, Greenville, CA",0,2,2,1,1
+"795 Cedar Blvd, Madison, NC",1,1,3,3,2
+"742 Main St, Riverside, OR",0,2,2,2,0
+"515 Maple Ave, Brooklyn, NJ",0,2,2,1,3
+"469 Pine St, Silverton, NJ",0,1,2,1,0
+"973 Cedar Blvd, Eastwood, FL",0,1,0,1,1
+"255 Lake Dr, Middletown, NY",1,4,3,3,2
+"208 Lake Dr, Salem, OR",1,2,2,3,3
+"230 Lake Dr, Salem, GA",1,3,2,2,2
+"691 Main St, Riverside, FL",0,2,2,1,2
+"411 Oak St, Madison, NY",1,3,3,2,1
+"619 Oak St, Brooklyn, MA",0,4,2,1,1
+"799 Cedar Blvd, Brooklyn, FL",0,1,2,2,0
+"170 Oak St, Fulton, NC",0,1,1,1,1
+"620 Pine St, Hampton, IL",1,3,3,3,0
+"577 Broadway, Fairview, WA",1,2,2,2,2
+"397 Elm St, Franklin, CA",0,2,2,2,2
+"325 Lake Dr, Madison, NY",0,1,2,2,1
+"160 Elm St, Brooklyn, GA",0,0,1,2,3
+"773 Maple Ave, Madison, WA",0,2,1,0,1
+"873 Lake Dr, Brooklyn, IL",1,1,3,2,1
+"740 Elm St, Yorktown, OR",0,2,2,0,0
+"597 Cedar Blvd, Clayton, MO",1,4,4,3,3
+"195 Elm St, Highland, MA",0,1,1,1,1
+"131 Lake Dr, Riverside, MO",0,2,2,0,2
+"437 Oak St, Hampton, MA",0,2,2,1,1
+"710 Pine St, Rockport, NY",0,1,2,2,2
+"177 Lake Dr, Hampton, CA",1,2,2,3,3
+"989 Broadway, Westfield, GA",0,2,1,1,3
+"825 Cedar Blvd, Ashland, IL",1,4,3,2,0
+"550 Maple Ave, Silverton, NJ",1,4,2,2,0
+"268 Elm St, Lexington, CA",1,3,4,3,3
+"149 Lake Dr, Yorktown, CA",1,1,3,3,1
+"520 Elm St, Franklin, MO",0,3,2,1,2
+"247 Maple Ave, Silverton, NC",1,1,4,2,1
+"492 Maple Ave, Eastwood, OR",1,3,3,3,2
+"795 Cedar Blvd, Lexington, WA",0,1,1,2,3
+"373 Pine St, Yorktown, CO",0,0,2,1,0
+"422 Cedar Blvd, Yorktown, TX",1,3,2,1,3
+"760 Maple Ave, Brooklyn, GA",0,3,2,1,4
+"591 Main St, Greenwood, CO",1,3,3,1,3
+"388 Main St, Salem, TX",0,1,1,1,1
+"461 Cedar Blvd, Centerville, MA",0,2,2,0,5
+"203 Broadway, Newton, FL",0,2,1,1,0
+"755 Pine St, Clayton, NY",0,1,1,0,2
+"267 Elm St, Lakewood, WA",0,1,1,2,1
+"680 Pine St, Madison, MO",1,4,5,4,0
+"287 Oak St, Ashland, MO",0,0,1,1,0
+"931 Main St, Greenwood, MA",1,2,2,2,0
+"395 Broadway, Hawthorne, IL",1,2,3,3,2
+"776 Oak St, Rockport, NC",0,2,1,0,1
+"899 Broadway, Lakewood, FL",0,0,0,0,0
+"109 Elm St, Newport, WA",0,0,0,0,4
+"865 Lake Dr, Madison, WA",0,1,1,2,3
+"132 Broadway, Highland, WA",0,2,2,0,3
+"302 Elm St, Rockport, NY",0,2,2,1,4
+"227 Oak St, Jacksonville, NC",1,2,3,2,5
+"315 Oak St, Madison, TX",1,2,4,3,2
+"792 Elm St, Lakewood, FL",0,2,2,1,3
+"721 Main St, Greenwood, CO",1,3,4,2,3
+"165 Broadway, Hawthorne, MO",1,2,3,1,2
+"715 Cedar Blvd, Lakewood, FL",0,1,2,1,4
+"397 Oak St, Westfield, NC",0,2,2,1,3
+"470 Oak St, Centerville, WA",0,2,1,1,2
+"862 Maple Ave, Highland, CA",1,2,3,2,0
+"344 Maple Ave, Middletown, MA",1,3,2,1,4
+"578 Oak St, Silverton, IL",1,2,3,2,4
+"804 Main St, Riverside, FL",0,2,1,1,1
+"347 Main St, Newport, NY",1,2,2,2,1
+"170 Pine St, Salem, MO",0,3,1,1,2
+"593 Lake Dr, Rockport, OR",1,3,3,3,1
+"857 Elm St, Hawthorne, NJ",1,2,2,2,1
+"210 Broadway, Franklin, CA",1,3,2,1,2
+"100 Pine St, Brooklyn, CO",0,2,1,0,3
+"777 Lake Dr, Bridgeport, OR",1,3,2,2,1
+"159 Elm St, Hampton, WA",1,2,2,3,1
+"842 Elm St, Lakewood, NJ",1,3,3,1,3
+"439 Oak St, Highland, CA",1,4,2,1,1
+"356 Oak St, Eastwood, OR",0,2,2,2,0
+"668 Lake Dr, Salem, FL",1,2,3,1,0
+"786 Pine St, Newport, FL",1,2,3,3,2
+"221 Pine St, Lexington, NJ",0,2,1,0,0
+"585 Cedar Blvd, Greenwood, MA",1,4,3,1,2
+"638 Pine St, Madison, GA",0,3,2,1,2
+"917 Broadway, Greenville, WA",0,2,3,2,1
+"413 Oak St, Hampton, NC",0,2,2,0,4
+"434 Main St, Highland, TX",0,2,2,0,2
+"232 Cedar Blvd, Springfield, CO",0,2,2,1,2
+"213 Broadway, Highland, NJ",1,2,3,4,2
+"196 Lake Dr, Clayton, MO",1,2,2,2,0
+"916 Maple Ave, Brooklyn, CO",0,2,2,2,1
+"930 Pine St, Ashland, GA",0,3,1,0,2
+"430 Pine St, Greenville, GA",0,3,1,2,3
+"369 Main St, Rockport, MO",0,1,2,2,0
+"368 Oak St, Bloomington, CA",0,1,1,1,3
+"271 Elm St, Fairview, WA",0,3,2,0,1
+"504 Elm St, Salem, GA",1,1,2,3,2
+"648 Lake Dr, Brooklyn, CA",0,3,2,2,1
+"490 Oak St, Highland, GA",0,3,2,0,4
+"541 Broadway, Salem, NC",0,2,2,0,0
+"884 Elm St, Lexington, NJ",0,0,2,1,1
+"335 Lake Dr, Hampton, NJ",1,3,3,2,4
+"861 Cedar Blvd, Brooklyn, WA",1,3,3,3,3
+"509 Maple Ave, Hampton, CA",1,4,3,3,2
+"383 Lake Dr, Salem, OR",1,2,3,3,4
+"454 Pine St, Bridgeport, WA",0,2,2,2,1
+"960 Oak St, Riverside, FL",0,1,2,2,0
+"681 Lake Dr, Westfield, GA",1,3,3,1,1
+"785 Main St, Eastwood, MO",0,1,1,0,1
+"157 Maple Ave, Clayton, TX",1,3,3,3,2
+"750 Lake Dr, Jacksonville, MA",1,2,4,3,3
+"365 Elm St, Jacksonville, IL",1,4,3,2,1
+"282 Elm St, Brooklyn, NY",0,2,0,1,4
+"524 Oak St, Riverside, NJ",1,3,2,2,2
+"218 Lake Dr, Rockport, OR",0,2,1,1,2
+"382 Cedar Blvd, Silverton, NJ",1,3,3,2,3
+"736 Pine St, Bridgeport, TX",0,2,1,2,3
+"864 Lake Dr, Franklin, NJ",1,2,2,3,1
+"850 Maple Ave, Ashland, MA",1,2,2,2,3
